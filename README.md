@@ -69,10 +69,10 @@ Open the Espruino IDE, connect your puck, and paste in the code provided in "Esp
 
 Connect your Arduino project to your Mac with the provided USB cable and run "main.js", found in the folder titled "BLE". 
 
-To run main.js, navigate to the inside of the BLE folder and :
+To run main.js, navigate to the inside of the BLE folder and enter:
 
 ```
-
+node main.js
 ```
 
 Immediately run your Espruino code. The puck should connect to your Mac via bluetooth, and as a result, affect the 7-segment output on the Arduino.
